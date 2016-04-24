@@ -1,2 +1,2 @@
 #!/bin/sh
-./latticelm -annealsteps 3 -unkn 3 -burnin 20 -samps 100 -prefix ./output/ ../corpus/voynich.txt 
+screen ./latticelm -annealsteps 10 -unkn 10 -burnin 100 -samps 1000 -prefix ./output/ ../corpus/voynich_s.txt

@@ -1,0 +1,286 @@
+[unifb]
+-0.00800301
+
+\data\
+ngram 1=90
+ngram 2=92
+ngram 3=91
+
+\1-grams:
+-1.81191	h	-0.00355376
+-1.9792	c	-0.002266
+-3.03268	hod	-0.002266
+-3.70231	kchrychodaiinolo	-0.002266
+-3.52812	ltc	-0.002266
+-3.70231	heycharcfharamyteeaycharoroc	-0.002266
+-3.64864	hydc	-0.002266
+-3.70231	holkodyokodarchodydaockhyckhockh	-0.002266
+-3.25686	ys	-0.002266
+-3.70231	ydksheeycthykotchodydaldo	-0.002266
+-3.02657	lch	-0.002266
+-3.70231	okeodairdamsocheych	-0.002266
+-3.70231	okodypotoysholdaircphoaldarcheytodyotoaiinshoshychokycholc	-0.002266
+-3.70231	tholsholokaldolcheychodololchycthyqoolchoiesc	-0.002266
+-3.70231	heoldolctheyykoldoldo	-0.002266
+-3.70231	loykoldolchodyokolsholkolkechycholkycholctholchodycholdaiinshorokolcholdolkydarsholdchorotchodarshodytao	-0.002266
+-3.70231	rchotcheydalchodyschodypol	-0.002266
+-3.70231	hodarkydainyypch	-0.002266
+-3.70231	oldaiinotchaldorchorysh	-0.002266
+-2.70455	orc	-0.002266
+-3.69975	thycthoq	-0.002266
+-3.70231	otaiinchaiinshaiidyc	-0.002266
+-3.70212	okaiindotoch	-0.002266
+-3.68538	oraly	-0.002266
+-3.70231	tchaiindansaiindainddcholdchycthyshorckhydaiinykydainshaiinqoyssholfodanyksholsheeydaiildydlsshokolsheeyqokeyykodysocholykydaindaiirolqokycholaiinsholshekydaiinctheykeolsaiinsaiinychaindalchydalorsha	-0.002266
+-3.70231	ndanolsaiinsheeyckhorokolchychorcthoryorancha	-0.002266
+-3.70231	nsaiinchetychykysalshoykeeycheyda	-0.002266
+-3.70231	iinchcthykooiin	-0.002266
+-3.68089	cheopc	-0.002266
+-3.70231	horotaiinodainchordairsh	-0.002266
+-3.70231	tykchokchyshosholqotcholoeeesqotychordaiinotchychorlshycholchodychodainchcthy	-0.002266
+-3.70231	daiinshocholocheorchod	-0.002266
+-3.70231	aiinkchorshydaiiinchckhoyssheydorcholdaii	-0.002266
+-3.70173	ndorcholchor	-0.002266
+-3.70231	cholkeolchychtydaiinotchorchandaiinchotcheyqoteeeychokeoscheeschrcheaii	-0.002266
+-3.70209	nchokoishe	-0.002266
+-3.70166	chorcheolcholdo	-0.002266
+-3.70231	lodytsheosqopalcholctholdaimmycheorch	-0.002266
+-3.35005	ord	-0.002266
+-3.65869	amqot	-0.002266
+-2.14569	ch	-0.00355376
+-3.23076	amc	-0.002266
+-3.69337	hamocho	-0.002266
+-3.70177	rqocheorc	-0.002266
+-3.69075	holdaiincthy	-0.002266
+-3.69953	scheychorc	-0.002266
+-3.70231	halchamchamchoqokolc	-0.002266
+-3.70231	hololyschamcthol	-0.002266
+-3.70156	ychtaiinchor	-0.002266
+-3.40248	ctho	-0.002266
+-3.7023	motaldamotch	-0.002266
+-3.70231	olqodaiinchomshomdamoysheorchorcholokydamosho*orsheoldamotchody	-0.002266
+-3.58783	olyd	-0.002266
+-3.70231	archolcthompcheolshol	-0.002266
+-3.70231	solssheolsheyokadaiinqokchorqoschodamocthyqokeeyqotsheyqokodyqokcheych	-0.002266
+-3.702	eodychorqod	-0.002266
+-3.70231	airokeeyqokeeyt	-0.002266
+-3.09004	she	-0.002266
+-3.70231	oaromshororchorofchsychomotc	-0.002266
+-3.70231	homoporaroteolcholscheolekshyqokeomqok	-0.002266
+-3.4048	olda	-0.002266
+-3.69089	iinsol	-0.002266
+-3.70231	eemsoeomokeomyteodyqokeeodalsam	-0.002266
+-3.70231	pcheoldomshodaiinqopchorqopo	-0.002266
+-3.70147	lopcholqot	-0.002266
+-3.70231	yotolomotchorolcheorqoeordairqoteo	-0.002266
+-3.70212	lqosaiinchorc	-0.002266
+-3.70227	thyycheorchol	-0.002266
+-3.55683	odaiin	-0.002266
+-3.70231	olsaiinokoloramkoaii	-0.002266
+-3.70231	ncphorqotoyshack	-0.002266
+-3.70231	holykoaiinsolydaiidyqoteeolokchorokorolytoldoldarok	-0.002266
+-3.62281	omchol	-0.002266
+-3.70213	sholseeesch	-0.002266
+-3.70231	omcheeykamokai*qodareeseeyk	-0.002266
+-3.70231	cheolokaldorchearee	-0.002266
+-3.70231	nyeeearotchaleeoreearckhyorcheorkorchodalychomtchoro	-0.002266
+-3.70231	tchamchorcfhamsyk	-0.002266
+-3.70214	chykchomchor	-0.002266
+-3.69443	chekeo	-0.002266
+-3.70231	lokaytcheearoke	-0.002266
+-3.70231	olcthodoalychorcthyoch	-0.002266
+-3.70231	ordaiinqoksholdaiimcholokaryshoshockhockhytchorchodaii	-0.002266
+-3.70069	nchomoshc	-0.002266
+-3.70225	airytchytch	-0.002266
+-3.70231	orkchamssharshkaiinqokchyyty	-0.002266
+-3.70231	cthalchkydainsheamyteamkodalchychpadysheololsheeyqot	-0.002266
+-3.7023	eydoiinchory	-0.002266
+-3.10369	to	-0.002266
+-3.6615	ydcho
+
+\2-grams:
+-1.31081	<s> kchrychodaiinolo	-0.0216815
+-1.31059	heycharcfharamyteeaycharoroc hydc	-0.0216815
+-1.30998	kchrychodaiinolo ltc	-0.0216815
+-1.31081	ltc heycharcfharamyteeaycharoroc	-0.0216815
+-1.31081	hydc holkodyokodarchodydaockhyckhockh	-0.0216815
+-1.39662	h ydksheeycthykotchodydaldo	-0.0216815
+-1.39662	h okaiindotoch	-0.0216815
+-1.30782	holkodyokodarchodydaockhyckhockh ys	-0.0216815
+-1.19814	ys h	-0.0216815
+-1.30458	ydksheeycthykotchodydaldo lch	-0.0216815
+-1.31081	lch okeodairdamsocheych	-0.0216815
+-1.31081	okeodairdamsocheych okodypotoysholdaircphoaldarcheytodyotoaiinshoshychokycholc	-0.0216815
+-1.31081	okodypotoysholdaircphoaldarcheytodyotoaiinshoshychokycholc tholsholokaldolcheychodololchycthyqoolchoiesc	-0.0216815
+-1.31081	tholsholokaldolcheychodololchycthyqoolchoiesc heoldolctheyykoldoldo	-0.0216815
+-1.31081	heoldolctheyykoldoldo loykoldolchodyokolsholkolkechycholkycholctholchodycholdaiinshorokolcholdolkydarsholdchorotchodarshodytao	-0.0216815
+-1.31081	loykoldolchodyokolsholkolkechycholkycholctholchodycholdaiinshorokolcholdolkydarsholdchorotchodarshodytao rchotcheydalchodyschodypol	-0.0216815
+-1.23153	rchotcheydalchodyschodypol c	-0.0216815
+-1.31081	c hodarkydainyypch	-0.0216815
+-1.30914	ychtaiinchor ctho	-0.0216815
+-1.31081	hodarkydainyypch oldaiinotchaldorchorysh	-0.0216815
+-1.29605	oldaiinotchaldorchorysh orc	-0.0216815
+-1.3108	orc thycthoq	-0.0216815
+-1.31081	thycthoq otaiinchaiinshaiidyc	-0.0216815
+-1.19814	otaiinchaiinshaiidyc h	-0.0216815
+-1.31074	okaiindotoch oraly	-0.0216815
+-1.31081	oraly tchaiindansaiindainddcholdchycthyshorckhydaiinykydainshaiinqoyssholfodanyksholsheeydaiildydlsshokolsheeyqokeyykodysocholykydaindaiirolqokycholaiinsholshekydaiinctheykeolsaiinsaiinychaindalchydalorsha	-0.0216815
+-1.31081	tchaiindansaiindainddcholdchycthyshorckhydaiinykydainshaiinqoyssholfodanyksholsheeydaiildydlsshokolsheeyqokeyykodysocholykydaindaiirolqokycholaiinsholshekydaiinctheykeolsaiinsaiinychaindalchydalorsha ndanolsaiinsheeyckhorokolchychorcthoryorancha	-0.0216815
+-1.31081	ndanolsaiinsheeyckhorokolchychorcthoryorancha nsaiinchetychykysalshoykeeycheyda	-0.0216815
+-1.31081	nsaiinchetychykysalshoykeeycheyda iinchcthykooiin	-0.0216815
+-1.31072	iinchcthykooiin cheopc	-0.0216815
+-1.31081	cheopc horotaiinodainchordairsh	-0.0216815
+-1.31081	horotaiinodainchordairsh tykchokchyshosholqotcholoeeesqotychordaiinotchychorlshycholchodychodainchcthy	-0.0216815
+-1.31081	tykchokchyshosholqotcholoeeesqotychordaiinotchychorlshycholchodychodainchcthy daiinshocholocheorchod	-0.0216815
+-1.31081	daiinshocholocheorchod aiinkchorshydaiiinchckhoyssheydorcholdaii	-0.0216815
+-1.31081	aiinkchorshydaiiinchckhoyssheydorcholdaii ndorcholchor	-0.0216815
+-1.31081	ndorcholchor cholkeolchychtydaiinotchorchandaiinchotcheyqoteeeychokeoscheeschrcheaii	-0.0216815
+-1.31081	cholkeolchychtydaiinotchorchandaiinchotcheyqoteeeychokeoscheeschrcheaii nchokoishe	-0.0216815
+-1.31081	nchokoishe chorcheolcholdo	-0.0216815
+-1.31081	chorcheolcholdo lodytsheosqopalcholctholdaimmycheorch	-0.0216815
+-1.30872	lodytsheosqopalcholctholdaimmycheorch ord	-0.0216815
+-1.31063	ord amqot	-0.0216815
+-1.25571	amqot ch	-0.0216815
+-1.39276	ch amc	-0.0216815
+-1.39662	ch olsaiinokoloramkoaii	-0.0216815
+-1.31077	amc hamocho	-0.0216815
+-1.31081	hamocho rqocheorc	-0.0216815
+-1.25571	odaiin ch	-0.0216815
+-1.31081	olsaiinokoloramkoaii ncphorqotoyshack	-0.0216815
+-1.31081	ncphorqotoyshack holykoaiinsolydaiidyqoteeolokchorokorolytoldoldarok	-0.0216815
+-1.31081	omchol sholseeesch	-0.0216815
+-1.31081	sholseeesch omcheeykamokai*qodareeseeyk	-0.0216815
+-1.31047	holykoaiinsolydaiidyqoteeolokchorokorolytoldoldarok omchol	-0.0216815
+-1.31081	hod airytchytch	-0.0216815
+-1.31081	ctho motaldamotch	-0.0216815
+-1.31081	omcheeykamokai*qodareeseeyk cheolokaldorchearee	-0.0216815
+-1.31081	cheolokaldorchearee nyeeearotchaleeoreearckhyorcheorkorchodalychomtchoro	-0.0216815
+-1.31081	nyeeearotchaleeoreearckhyorcheorkorchodalychomtchoro tchamchorcfhamsyk	-0.0216815
+-1.31081	tchamchorcfhamsyk chykchomchor	-0.0216815
+-1.31078	chykchomchor chekeo	-0.0216815
+-1.31064	to ydcho
+-1.30586	eydoiinchory to	-0.0216815
+-1.31081	cthalchkydainsheamyteamkodalchychpadysheololsheeyqot eydoiinchory	-0.0216815
+-1.31081	orkchamssharshkaiinqokchyyty cthalchkydainsheamyteamkodalchychpadysheololsheeyqot	-0.0216815
+-1.31081	airytchytch orkchamssharshkaiinqokchyyty	-0.0216815
+-1.30469	nchomoshc hod	-0.0216815
+-1.3108	ordaiinqoksholdaiimcholokaryshoshockhockhytchorchodaii nchomoshc	-0.0216815
+-1.31081	olcthodoalychorcthyoch ordaiinqoksholdaiimcholokaryshoshockhockhytchorchodaii	-0.0216815
+-1.31081	lokaytcheearoke olcthodoalychorcthyoch	-0.0216815
+-1.31081	chekeo lokaytcheearoke	-0.0216815
+-1.31014	thyycheorchol odaiin	-0.0216815
+-1.31081	lqosaiinchorc thyycheorchol	-0.0216815
+-1.31081	yotolomotchorolcheorqoeordairqoteo lqosaiinchorc	-0.0216815
+-1.31081	lopcholqot yotolomotchorolcheorqoeordairqoteo	-0.0216815
+-1.31081	pcheoldomshodaiinqopchorqopo lopcholqot	-0.0216815
+-1.31081	eemsoeomokeomyteodyqokeeodalsam pcheoldomshodaiinqopchorqopo	-0.0216815
+-1.31081	iinsol eemsoeomokeomyteodyqokeeodalsam	-0.0216815
+-1.31076	olda iinsol	-0.0216815
+-1.30916	homoporaroteolcholscheolekshyqokeomqok olda	-0.0216815
+-1.31081	oaromshororchorofchsychomotc homoporaroteolcholscheolekshyqokeomqok	-0.0216815
+-1.31081	she oaromshororchorofchsychomotc	-0.0216815
+-1.30565	airokeeyqokeeyt she	-0.0216815
+-1.31081	eodychorqod airokeeyqokeeyt	-0.0216815
+-1.31081	solssheolsheyokadaiinqokchorqoschodamocthyqokeeyqotsheyqokodyqokcheych eodychorqod	-0.0216815
+-1.31081	archolcthompcheolshol solssheolsheyokadaiinqokchorqoschodamocthyqokeeyqotsheyqokodyqokcheych	-0.0216815
+-1.31081	olyd archolcthompcheolshol	-0.0216815
+-1.3103	olqodaiinchomshomdamoysheorchorcholokydamosho*orsheoldamotchody olyd	-0.0216815
+-1.31081	motaldamotch olqodaiinchomshomdamoysheorchorcholokydamosho*orsheoldamotchody	-0.0216815
+-1.31081	hololyschamcthol ychtaiinchor	-0.0216815
+-1.31081	halchamchamchoqokolc hololyschamcthol	-0.0216815
+-1.31081	scheychorc halchamchamchoqokolc	-0.0216815
+-1.3108	holdaiincthy scheychorc	-0.0216815
+-1.31076	rqocheorc holdaiincthy	-0.0216815
+
+\3-grams:
+-0.755482	ltc heycharcfharamyteeaycharoroc hydc
+-0.755335	<s> kchrychodaiinolo ltc
+-0.755535	kchrychodaiinolo ltc heycharcfharamyteeaycharoroc
+-0.755535	heycharcfharamyteeaycharoroc hydc holkodyokodarchodydaockhyckhockh
+-0.774746	ys h ydksheeycthykotchodydaldo
+-0.774746	otaiinchaiinshaiidyc h okaiindotoch
+-0.754811	hydc holkodyokodarchodydaockhyckhockh ys
+-0.725547	holkodyokodarchodydaockhyckhockh ys h
+-0.754024	h ydksheeycthykotchodydaldo lch
+-0.755535	ydksheeycthykotchodydaldo lch okeodairdamsocheych
+-0.755535	lch okeodairdamsocheych okodypotoysholdaircphoaldarcheytodyotoaiinshoshychokycholc
+-0.755535	okeodairdamsocheych okodypotoysholdaircphoaldarcheytodyotoaiinshoshychokycholc tholsholokaldolcheychodololchycthyqoolchoiesc
+-0.755535	okodypotoysholdaircphoaldarcheytodyotoaiinshoshychokycholc tholsholokaldolcheychodololchycthyqoolchoiesc heoldolctheyykoldoldo
+-0.755535	tholsholokaldolcheychodololchycthyqoolchoiesc heoldolctheyykoldoldo loykoldolchodyokolsholkolkechycholkycholctholchodycholdaiinshorokolcholdolkydarsholdchorotchodarshodytao
+-0.755535	heoldolctheyykoldoldo loykoldolchodyokolsholkolkechycholkycholctholchodycholdaiinshorokolcholdolkydarsholdchorotchodarshodytao rchotcheydalchodyschodypol
+-0.735034	loykoldolchodyokolsholkolkechycholkycholctholchodycholdaiinshorokolcholdolkydarsholdchorotchodarshodytao rchotcheydalchodyschodypol c
+-0.755535	rchotcheydalchodyschodypol c hodarkydainyypch
+-0.755133	hololyschamcthol ychtaiinchor ctho
+-0.755535	c hodarkydainyypch oldaiinotchaldorchorysh
+-0.751928	hodarkydainyypch oldaiinotchaldorchorysh orc
+-0.755532	oldaiinotchaldorchorysh orc thycthoq
+-0.755535	orc thycthoq otaiinchaiinshaiidyc
+-0.725547	thycthoq otaiinchaiinshaiidyc h
+-0.755519	h okaiindotoch oraly
+-0.755535	okaiindotoch oraly tchaiindansaiindainddcholdchycthyshorckhydaiinykydainshaiinqoyssholfodanyksholsheeydaiildydlsshokolsheeyqokeyykodysocholykydaindaiirolqokycholaiinsholshekydaiinctheykeolsaiinsaiinychaindalchydalorsha
+-0.755535	oraly tchaiindansaiindainddcholdchycthyshorckhydaiinykydainshaiinqoyssholfodanyksholsheeydaiildydlsshokolsheeyqokeyykodysocholykydaindaiirolqokycholaiinsholshekydaiinctheykeolsaiinsaiinychaindalchydalorsha ndanolsaiinsheeyckhorokolchychorcthoryorancha
+-0.755535	tchaiindansaiindainddcholdchycthyshorckhydaiinykydainshaiinqoyssholfodanyksholsheeydaiildydlsshokolsheeyqokeyykodysocholykydaindaiirolqokycholaiinsholshekydaiinctheykeolsaiinsaiinychaindalchydalorsha ndanolsaiinsheeyckhorokolchychorcthoryorancha nsaiinchetychykysalshoykeeycheyda
+-0.755535	ndanolsaiinsheeyckhorokolchychorcthoryorancha nsaiinchetychykysalshoykeeycheyda iinchcthykooiin
+-0.755514	nsaiinchetychykysalshoykeeycheyda iinchcthykooiin cheopc
+-0.755535	iinchcthykooiin cheopc horotaiinodainchordairsh
+-0.755535	cheopc horotaiinodainchordairsh tykchokchyshosholqotcholoeeesqotychordaiinotchychorlshycholchodychodainchcthy
+-0.755535	horotaiinodainchordairsh tykchokchyshosholqotcholoeeesqotychordaiinotchychorlshycholchodychodainchcthy daiinshocholocheorchod
+-0.755535	tykchokchyshosholqotcholoeeesqotychordaiinotchychorlshycholchodychodainchcthy daiinshocholocheorchod aiinkchorshydaiiinchckhoyssheydorcholdaii
+-0.755534	daiinshocholocheorchod aiinkchorshydaiiinchckhoyssheydorcholdaii ndorcholchor
+-0.755535	aiinkchorshydaiiinchckhoyssheydorcholdaii ndorcholchor cholkeolchychtydaiinotchorchandaiinchotcheyqoteeeychokeoscheeschrcheaii
+-0.755535	ndorcholchor cholkeolchychtydaiinotchorchandaiinchotcheyqoteeeychokeoscheeschrcheaii nchokoishe
+-0.755534	cholkeolchychtydaiinotchorchandaiinchotcheyqoteeeychokeoscheeschrcheaii nchokoishe chorcheolcholdo
+-0.755535	nchokoishe chorcheolcholdo lodytsheosqopalcholctholdaimmycheorch
+-0.755029	chorcheolcholdo lodytsheosqopalcholctholdaimmycheorch ord
+-0.755492	lodytsheosqopalcholctholdaimmycheorch ord amqot
+-0.741583	ord amqot ch
+-0.773944	amqot ch amc
+-0.774746	odaiin ch olsaiinokoloramkoaii
+-0.755526	ch amc hamocho
+-0.755534	amc hamocho rqocheorc
+-0.741583	thyycheorchol odaiin ch
+-0.755535	ch olsaiinokoloramkoaii ncphorqotoyshack
+-0.755535	olsaiinokoloramkoaii ncphorqotoyshack holykoaiinsolydaiidyqoteeolokchorokorolytoldoldarok
+-0.755535	holykoaiinsolydaiidyqoteeolokchorokorolytoldoldarok omchol sholseeesch
+-0.755535	omchol sholseeesch omcheeykamokai*qodareeseeyk
+-0.755454	ncphorqotoyshack holykoaiinsolydaiidyqoteeolokchorokorolytoldoldarok omchol
+-0.755535	nchomoshc hod airytchytch
+-0.755535	ychtaiinchor ctho motaldamotch
+-0.755535	sholseeesch omcheeykamokai*qodareeseeyk cheolokaldorchearee
+-0.755535	omcheeykamokai*qodareeseeyk cheolokaldorchearee nyeeearotchaleeoreearckhyorcheorkorchodalychomtchoro
+-0.755535	cheolokaldorchearee nyeeearotchaleeoreearckhyorcheorkorchodalychomtchoro tchamchorcfhamsyk
+-0.755535	nyeeearotchaleeoreearckhyorcheorkorchodalychomtchoro tchamchorcfhamsyk chykchomchor
+-0.755527	tchamchorcfhamsyk chykchomchor chekeo
+-0.755495	eydoiinchory to ydcho
+-0.754335	cthalchkydainsheamyteamkodalchychpadysheololsheeyqot eydoiinchory to
+-0.755535	orkchamssharshkaiinqokchyyty cthalchkydainsheamyteamkodalchychpadysheololsheeyqot eydoiinchory
+-0.755535	airytchytch orkchamssharshkaiinqokchyyty cthalchkydainsheamyteamkodalchychpadysheololsheeyqot
+-0.755535	hod airytchytch orkchamssharshkaiinqokchyyty
+-0.75405	ordaiinqoksholdaiimcholokaryshoshockhockhytchorchodaii nchomoshc hod
+-0.755533	olcthodoalychorcthyoch ordaiinqoksholdaiimcholokaryshoshockhockhytchorchodaii nchomoshc
+-0.755535	lokaytcheearoke olcthodoalychorcthyoch ordaiinqoksholdaiimcholokaryshoshockhockhytchorchodaii
+-0.755535	chekeo lokaytcheearoke olcthodoalychorcthyoch
+-0.755535	chykchomchor chekeo lokaytcheearoke
+-0.755374	lqosaiinchorc thyycheorchol odaiin
+-0.755535	yotolomotchorolcheorqoeordairqoteo lqosaiinchorc thyycheorchol
+-0.755535	lopcholqot yotolomotchorolcheorqoeordairqoteo lqosaiinchorc
+-0.755535	pcheoldomshodaiinqopchorqopo lopcholqot yotolomotchorolcheorqoeordairqoteo
+-0.755534	eemsoeomokeomyteodyqokeeodalsam pcheoldomshodaiinqopchorqopo lopcholqot
+-0.755535	iinsol eemsoeomokeomyteodyqokeeodalsam pcheoldomshodaiinqopchorqopo
+-0.755535	olda iinsol eemsoeomokeomyteodyqokeeodalsam
+-0.755524	homoporaroteolcholscheolekshyqokeomqok olda iinsol
+-0.755137	oaromshororchorofchsychomotc homoporaroteolcholscheolekshyqokeomqok olda
+-0.755535	she oaromshororchorofchsychomotc homoporaroteolcholscheolekshyqokeomqok
+-0.755535	airokeeyqokeeyt she oaromshororchorofchsychomotc
+-0.754284	eodychorqod airokeeyqokeeyt she
+-0.755535	solssheolsheyokadaiinqokchorqoschodamocthyqokeeyqotsheyqokodyqokcheych eodychorqod airokeeyqokeeyt
+-0.755535	archolcthompcheolshol solssheolsheyokadaiinqokchorqoschodamocthyqokeeyqotsheyqokodyqokcheych eodychorqod
+-0.755535	olyd archolcthompcheolshol solssheolsheyokadaiinqokchorqoschodamocthyqokeeyqotsheyqokodyqokcheych
+-0.755535	olqodaiinchomshomdamoysheorchorcholokydamosho*orsheoldamotchody olyd archolcthompcheolshol
+-0.755413	motaldamotch olqodaiinchomshomdamoysheorchorcholokydamosho*orsheoldamotchody olyd
+-0.755535	ctho motaldamotch olqodaiinchomshomdamoysheorchorcholokydamosho*orsheoldamotchody
+-0.755534	halchamchamchoqokolc hololyschamcthol ychtaiinchor
+-0.755535	scheychorc halchamchamchoqokolc hololyschamcthol
+-0.755535	holdaiincthy scheychorc halchamchamchoqokolc
+-0.755532	rqocheorc holdaiincthy scheychorc
+-0.755524	hamocho rqocheorc holdaiincthy
