@@ -1,0 +1,16 @@
+init   : ./lwlm -n 3 -N 10 ../voynich/voy.txt model.voynich
+host   : Juiz
+start  : Sun Apr 24 17:04:28 2016
+--------
+Gibbs [1] : PPL = 418.661
+Gibbs [2] : PPL = 544.178
+Gibbs [3] : PPL = 595.522
+Gibbs [4] : PPL = 662.614
+Gibbs [5] : PPL = 674.506
+Gibbs [6] : PPL = 689.499
+Gibbs [7] : PPL = 697.141
+Gibbs [8] : PPL = 737.655
+Gibbs [9] : PPL = 792.365
+Gibbs [10] : PPL = 836.563
+--------
+finish : Sun Apr 24 17:05:11 2016
